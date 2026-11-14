@@ -1,0 +1,4 @@
+tweets/
+local_sequence/
+*.parquet
+full_clustered_points_k6.txt
